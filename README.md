@@ -2,7 +2,7 @@
 - 👀 I’m interested in web app developement and game developement.
 - 🌱 I’m currently learning full stack web developement.
 - 💞️ I’m looking to collaborate on simple app ideas for now.
-- 📫 How to reach me - magelight.game.studio@gmail.com.
+- 📫 How to reach me - flickanimates@gmail.com.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Unicorns are the national animal of Scotland.
 
