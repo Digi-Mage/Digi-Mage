@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Digi-Mage
-- 👀 I’m interested in web app developement and game developement.
+- 👀 I’m interested in web developement and game developement.
 - 🌱 I’m currently learning full stack web developement.
 - 💞️ I’m looking to collaborate on simple app ideas for now.
 - 📫 How to reach me - flickanimates@gmail.com.
